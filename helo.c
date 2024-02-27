@@ -5,7 +5,7 @@
 #define MAX_epanalipsis 1000
 #define elegxos 1e-6
 
-// synartisi ypologismou polionimou me tin timi pou dinete sto x.
+// synartisi ypologismou polionimou me tin timi pou dinete sto x.!
 
 double polyonimo(double x, double *sintelestes, int vathmos) {
     double result = 0.0;
