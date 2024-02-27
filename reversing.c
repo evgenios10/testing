@@ -5,7 +5,7 @@
 int main(){
 
 int size;
-printf("give the size of the table\n");
+printf("please give the size of the table\n");
 scanf("%d",&size);
 
 srand(time(NULL));
@@ -30,6 +30,7 @@ for(int i=0; i<size; i++){
 
 }
 printf("\n");
+printf("goodbye\n");
 
 int count=0;
 
